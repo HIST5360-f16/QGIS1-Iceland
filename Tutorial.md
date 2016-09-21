@@ -6,9 +6,10 @@
 
 1. Make a folder or directory called "Iceland" on your computer.
 
-2. Download the follwoing data sets from DIVA-GIS [Google "DIVA-GIS Countries"] into that directory and **unzip each downloaded folder** into the Iceland directory.
+2. Download the Iceland data set from DIVA-GIS [Google "DIVA-GIS Countries"] into that directory. In the drop down menu box labeled country, select Iceland. In the next drop down menu box labeled Subject, find the following data sets: 
 * Administrative Areas: ISL_adm.zip
 * Roads: ISL_rds.zip
+**unzip each downloaded folder** into the Iceland directory.
 
 3. Open QGIS and set up a new project.
 
