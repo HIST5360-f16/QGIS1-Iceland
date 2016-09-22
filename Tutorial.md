@@ -48,5 +48,5 @@
 12. Observe the difference in cartographic accuracy between the 1697 and 1849 maps by toggling between the two layers in the **Layers Panel**.
 * The 1849 map should look more accurate when observing the outer regions. 
 
-13. **Save Your Work** and close QGIS- your done!
+13. **Save Your Work** and close QGIS- you're done!
 
