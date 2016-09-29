@@ -1,3 +1,6 @@
+![Flag_of_Iceland.svg](/Flag_of_Iceland.svg.png)
+
+
 # Iceland in QGIS: A Supplemental Tutorial on Adding Layers
 ### Author: william.kingren@mavs.uta.edu, with additions from Justin Jolly
 ## This tutorial is designed so you can practice the skills you used in the [Programming Historian QGIS Tutorial](http://programminghistorian.org/lessons/qgis-layers) about adding layers.
@@ -19,12 +22,17 @@
 	* Select **CRS** from the side bar of the new window
 	* type **isn93** in the filter field, then select **ISN93/Lambert 1993**
 
+![Iceland Screenshot](/Iceland Screenshot.png)
+
 5. Build a base map: Open the following vectors by selecting **Layer** **Add Layer** then **Add Vector Layer**. Change the way they look using **Properties** (either double click on the layer or right-click and select **Properties**. Under **Style** click on **Simple Fill**, go to **Colors**, **Fill**, **Transparent Fill**.
 * ISL_adm0.shp; change so there is no color fill
      * Under **Style** click on **Simple Fill**
      * go to **Colors**
      * Select **Fill**
      * Select **Transparent Fill**
+     
+![Iceland Screenshot 2](/Iceland Screenshot 2.png)
+
 * ISL-adm1.shp; same as above
 * ISL_roads.shp; go to **Style** to change the color and width of the lines so they are easier to see
 
@@ -34,6 +42,8 @@
 * Select **Show Labels for this layer** from the drop-down menu
 * Open next drop-down menu **Label with** and select the name of your column
 * Increase the size of your font so that the labels are clearly visible on the map; an example size would be 18 pt.
+
+![Iceland Screenshot 3](/Iceland Screenshot 3.png)
 
 7. Go to Blackboard and from the Iceland tutorial area, download the file named Iceland_1849.zip. Unzip it into your Iceland directory and import the .tif file into QGIS as a raster file by clicking **Layer** **Add Layer** then ** Add Raster Layer**. Note: I have already geo-referenced this file.
 
