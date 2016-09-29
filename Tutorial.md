@@ -2,7 +2,7 @@
 
 
 # Iceland in QGIS: A Supplemental Tutorial on Adding Layers
-### Author: william.kingren@mavs.uta.edu, with additions from Justin Jolly
+### Author: william.kingren@mavs.uta.edu, with additions from Justin Jolly and Ahmed Foggie
 ## This tutorial is designed so you can practice the skills you used in the [Programming Historian QGIS Tutorial](http://programminghistorian.org/lessons/qgis-layers) about adding layers.
 
 ---------
