@@ -37,7 +37,9 @@
 * ISL_roads.shp; go to **Style** to change the color and width of the lines so they are easier to see.
 * Keep these steps in mind. Later on, after you've geo-referenced your maps, you can re-enter the properties for your various layers and change them, which may help you glean useful information from your maps.
 
-6. Look at the attribute table of ISL_adm1.shp by right clicking on the layer and then clicking on **Open Attribute Table**. These show the country's 8 Regions. Note that table **Name_1** gives the name of the Region. Write down the name of that column and close the attribute table.
+6. This is a good place to save your work!
+
+7. Look at the attribute table of ISL_adm1.shp by right clicking on the layer and then clicking on **Open Attribute Table**. These show the country's 8 Regions. Note that table **Name_1** gives the name of the Region. Write down the name of that column and close the attribute table.
 * Go into the **Properties** for ISL_adm1.shp
 * Select **Labels** from the side menu
 * Select **Show Labels for this layer** from the drop-down menu
@@ -46,18 +48,18 @@
 
 ![Iceland Screenshot 3](/Iceland Screenshot 3.png)
 
-7. Go to Blackboard and from the Iceland tutorial area, download the file named Iceland_1849.zip. Unzip it into your Iceland directory (where you have been saving all of your other files for this project) and import the .tif file into QGIS as a raster file by clicking **Layer**, then **Add Layer**, then ** Add Raster Layer**. Note: I have already geo-referenced this file.
+8. Go to Blackboard and from the Iceland tutorial area, download the file named Iceland_1849.zip. Unzip it into your Iceland directory (where you have been saving all of your other files for this project) and import the .tif file into QGIS as a raster file by clicking **Layer**, then **Add Layer**, then ** Add Raster Layer**. Note: I have already geo-referenced this file.
 
-8. In the **Layers Panel** drag the Iceland_1849 raster layer to the bottom of the list so the Region and Names are superimposed on the map.
+9. In the **Layers Panel** drag the Iceland_1849 raster layer to the bottom of the list so the Region and Names are superimposed on the map.
 
-9. Go back to properties of ISL_adm0.shp and ISL_adm1.shp and in the style tab change the width of the lines so they are visible.
+10. Go back to properties of ISL_adm0.shp and ISL_adm1.shp and in the style tab change the width of the lines so they are visible.
 
-10. Unselect **Iceland_1849** in the **Layers Panel**
+11. Unselect **Iceland_1849** in the **Layers Panel**
 
-11. Go back to Blackboard and download the file named Iceland_1697.zip in your Iceland directory and **repeat steps 7 and 8.**
+12. Go back to Blackboard and download the file named Iceland_1697.zip in your Iceland directory and **repeat steps 7 and 8.**
 
-12. Observe the difference in cartographic accuracy between the 1697 and 1849 maps by toggling between the two layers in the **Layers Panel**.
+13. Observe the difference in cartographic accuracy between the 1697 and 1849 maps by toggling between the two layers in the **Layers Panel**.
 * The 1849 map should look more accurate when observing the outer regions. 
 
-13. **Save Your Work** and close QGIS - you're done!
+14. **Save Your Work** and close QGIS - you're done!
 
